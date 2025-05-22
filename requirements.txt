@@ -1,0 +1,4 @@
+langchain
+langgraph
+crewai
+crewai[tools]
